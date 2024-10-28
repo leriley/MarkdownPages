@@ -24,6 +24,7 @@ Now we'll go through this piece by piece
 | attach point | The bone name that your mesh attaches to on the sim body |
 | mesh | A description of what your mesh is|  
 
+![Files](skn1.jpg)  
 Let's have a look at a Maxis head to see the naming conventions. The Will Wright head has two mesh parts: The head, and the glasses.  
 ```sh
 xskin-c020ma_willw-HEAD-HEAD
