@@ -10,7 +10,7 @@ So now I'm going to go into photoshop and create the texture for the head. Here'
  
 At this point, we also need to pick what we're going to name our files. [See this page for naming conventions!](skn2objcxm.md) I've picked the numbers `457`, the mesh is for female adults, and the name `redguardf`, so my mesh group will be `c457fa_redguardf`. Sims 1 only has three skintones to choose from: light, medium, and dark. Redguards have dark skin, so the texture will be named `c457fadrk_redguardf.bmp`. Usually I make my heads avilable for all three skintones, but since this is a specific head from a specific game, I only have one skin texture to work with. If I had a texture for the medium and light skin swatches, they would be called `c457famed_redguardf.bmp` for the medium skin, and `c457falgt_redguardf.bmp` for the light skin swatch. Simple as that!  
 ![Photoshop](mesh4.jpg)  
-Now that our textures are all on the same image, we are going to export the texture as an **indexed BMP**. In Photoshop, you go to Image/Mode/Indexed Color and it should be 256. Sims 1 can only use this type of BMP for the textures in-game. If they are not Indexed BMPs, they *will* show correctly in The Sims Creator, but not in the game! If your texture is the wrong format, it will show up in-game as blank and pure white instead of the correct texture.  
+Now that our textures are all on the same image, we are going to export the texture as an **indexed BMP**. In Photoshop, you go to Image/Mode/Indexed Color and it should be 256. Sims 1 can only use this type of BMP for the textures in-game. If they are not Indexed BMPs, they *will* show correctly in The Sims Creator, but not in the game! If your texture is the wrong format, it will show up in-game as blank and pure white instead of the correct texture. Save your new indexed image as a bmp file called `c457fadrk_redguardf.bmp`  
 
 Now that our texture is ready, it's time to fix the UV map. I'm going to add this new texture we created onto each one of the mesh parts, and then adjust the UV map as necessary. Ctrl + T is the shortcut to open the UV editor in Milkshape. Then I'll resize the face and hair UV by half and move them into place to fit the new texture.   
 
@@ -61,4 +61,6 @@ At this point, we have everything we need! The .skn file we made with skn2obj, t
 ![Simenhancer](mesh9.jpg)  
 Thankfully, this one showed up correctly in SimEnhacer. I just decided to increase the size of the mesh back in Milkshape, reexport, and remake the .skn file because the head looked a little small to me. Now I like the size of it, which means it's ready for gameplay!  
 ![In game](mesh10.jpg)  
-And there she is in game! We've now got brand new content for a more than 20-year-old game.
+And there she is in game! We've now got brand new content for a more than 20-year-old game.  
+
+
