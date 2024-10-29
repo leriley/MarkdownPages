@@ -6,6 +6,6 @@ These markdown pages will serve as a tutorial for making custom heads for *The S
 
 It is very difficult to find information about the original *Sims* game since many, many "early internet" websites have been lost to time, so creating more easily-accessible information about *The Sims* is a small way to help preserve this historic, genre-defining, yet forgotten gaming gem. There's something I really love about this simple little dollhouse game, so I'm eager to share what I know about it.  
 
-Click the links to begin learning how to make custom content for a 24-year-old dollhouse simulator game: 
+Click the links to begin learning how to make custom content for a 24-year-old dollhouse simulator: 
 
 [Tools](tools.md) | [Files and File Types](skn2objcxm.md) | [Meshing, Textures, and UV Mapping](meshing.md)
