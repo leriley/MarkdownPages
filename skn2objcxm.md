@@ -97,7 +97,7 @@ Your textures for Sims 1 CC must always be 8-bit indexed BMP. They will not show
 
 Sims 1 has three skintones: light, medium, and dark. Head and body textures must have the codes for these skintones in the file name for them to show up in the correct category. For example, the Will Wright head only comes in light skintone, so the file name is C020MA**lgt**_WillW.bmp. If you wanted to create medium and dark textures to attach themselves to the Will Wright mesh, you would simply just need to create indexed BMPs with the file names C020MA**med**_WillW.bmp and C020MA**drk**_WillW.bmp. Here's a head I created in the past that has all three skintones available:  
 ![Files](images/skn.jpg)  
-Notice the skintone codes following the three mesh group name digits.
+Notice the skintone codes following three mesh group name.
 
 [Home](README.md) | [Tools](tools.md) | [Meshing, Textures, and UV Mapping](meshing.md)
 
