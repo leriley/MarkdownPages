@@ -61,6 +61,6 @@ At this point, we have everything we need! The .skn file we made with skn2obj, t
 ![Simenhancer](mesh9.jpg)  
 Thankfully, this one showed up correctly in SimEnhacer. I just decided to increase the size of the mesh back in Milkshape, reexport, and remake the .skn file because the head looked a little small to me. Now I like the size of it, which means it's ready for gameplay!  
 ![In game](mesh10.jpg)  
-And there she is in game! We've now got brand new content for a more than 20-year-old game.  
+And there she is! We've now got brand new content for a more than 20-year-old game.  
 
 [Home](README.md) | [Tools](tools.md) | [Files and File Types](skn2objcxm.md)
