@@ -1,7 +1,7 @@
 # Sims 1 Files and Files Types 
 There's three parts to Create-a-Sim content for *The Sims* (2000):
 * The .SKN file (the mesh)
-* The .CMX files (what links them together)
+* The .CMX files (what links all the files together)
 * The .BMP file (the texture)
 ## The SKN File
 These files are created by importing a .obj file into Skn2Obj, a 3rd party tool created specifically for creating meshes for Sims 1.  
