@@ -26,7 +26,7 @@ Now we'll go through this piece by piece
 
 Let's have a look at a Maxis head to see the naming conventions.  
 ![Files](skn1.jpg)  
- The Will Wright head has two mesh parts: The head, and the glasses.  
+ The Will Wright head has two mesh parts (ie two .skn files): The head, and the glasses.  
 ```sh
 xskin-c020ma_willw-HEAD-HEAD
 ```
