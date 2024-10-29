@@ -1,4 +1,4 @@
-# Skn2Obj and CMX Files 
+# Sims 1 Files and Files Types 
 There's three parts to Create-a-Sim custom content for *The Sims* (2000):
 * The .SKN file (the mesh)
 * The .BMP file (the texture)
