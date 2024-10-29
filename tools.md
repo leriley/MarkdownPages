@@ -11,4 +11,4 @@ and thus are no longer available for purchase.
 - [The Sims Creator](https://sims.fandom.com/wiki/The_Sims_Creator) or SimEnhancer
   - Archived versions of TSC and SimEnhancer can be found [here](https://archive.org/details/TheSimsCreator) (archive.org) and [here](https://modthesims.info/showthread.php?p=5828020#post5828020) (modthesims)
  
-[Home](README.md) | [Files and File Types](skn2objcxm.md) | [Meshing, Textures, and UV Mapping](meshing.md) |
+[Home](README.md) | [Files and File Types](skn2objcxm.md) | [Meshing, Textures, and UV Mapping](meshing.md)
