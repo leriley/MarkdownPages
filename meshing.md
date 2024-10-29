@@ -20,4 +20,21 @@ After:
 ![Files](mesh6.jpg)  
 Now that the UV maps are fixed, I can combine all three mesh parts into one single mesh, and the UV maps will combine as well, creating one mesh that is mapped to one texture. Here it is!:  
 ![Files](mesh7.jpg)   
-Our mesh is now finished, and we can export the mesh as a .obj file. Now we'll open Skn2Obj and create the .skn file.
+Our mesh is now finished, and we can export the mesh as a .obj file. The skn file will need to BE:  
+- for females
+- for adults
+- a head mesh
+- attached to the head bone
+- and it will have c457_redguardf as the mesh group name
+
+This all culminates into this file name: `xskin-c457fa_redguardf-HEAD-HEAD`. This will be the name of the .obj file, which will be imported into Skn2Obj  
+Now we'll open Skn2Obj and create the .skn file.
+## Skn2Obj  
+Skn2Obj will create our .skn file. Import the obj and fill out the boxes to build the skin file with.  
+- File Designation is the name of your mesh group. So copy and paste the `c457fa_redguardf` portion of the file name into the File Designation box.
+- Default Skin is what the mesh will be called (the name of our .obj file), so copy the entire .obj file name into the Default Skin box
+- Since this is a head, it attaches to the head bone. Select HEAD under the Attach Site selection.
+ With all our boxes filled out, we can Import and then Save As, and once again paste our entire .skn file name: xskin-c457fa_redguardf-HEAD-HEAD. Now we've got a brand new .skn file, and we're ready to move on to the cmx file.
+
+## Creating the CMX File
+Open up notepad to a fresh blank file. [I will copy the blank template from this page](skn2objcxm.md) and simply fill it with our data.
