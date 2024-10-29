@@ -45,7 +45,9 @@ From looking at these .skn file names, you can tell that:
     - xskin-c020ma_willw-HEAD-**HEAD**
    - xskin-c020ma_willw-HEAD-**GPASPECS**
 
-You can tell these two meshes go together because of the identifying digits and name given to the mesh: `c020` and `willw`. ***This part of the file name is very important!*** These create the name of the mesh group, and this is what the name of the .CMX file will be! This is also what you will name your texture files. For example: The .BMP texture file for the Will Wright head is called C020MAlgt_WillW.bmp. The .CMX file for the Will Wright head is called the same as the mesh group name, C020MA_WillW.cmx. Every file related to this particular Will Wright head will have `c020` and `willw` in the file name.
+You can tell these two meshes go together because of the identifying digits and name given to the mesh: `c020` and `willw`. 
+
+>***This part of the file name is very important!*** These create the name of the mesh group, and this is what the name of the .CMX file will be! This is also what you will name your texture files. For example: The .BMP texture file for the Will Wright head is called C020MAlgt_WillW.bmp. The .CMX file for the Will Wright head is called the same as the mesh group name, C020MA_WillW.cmx. Every file related to this particular Will Wright head will have `c020` and `willw` in the file name.
 
 
 ## The CMX File
