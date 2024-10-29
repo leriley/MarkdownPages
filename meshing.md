@@ -33,7 +33,7 @@ Now we'll open Skn2Obj and create the .skn file.
 Skn2Obj will create our .skn file. Import the obj and fill out the boxes to build the skin file with.  
 ![Skn2Obj settings](images/mesh8.jpg) 
 - File Designation is the name of your mesh group. So copy and paste the `c457fa_redguardf` portion of the file name into the File Designation box.
-- Default Skin is what the mesh will be called (the name of our .obj file), so copy the entire .obj file name into the Default Skin box
+- Default Skin is what the mesh will be called (same as the name of our .obj file), so copy the entire .obj file name into the Default Skin box
 - Since this is a head, it attaches to the head bone. Select HEAD under the Attach Site selection.  
 
 With all our boxes filled out, we can Import and then Save As, and once again paste our entire .skn file name: xskin-c457fa_redguardf-HEAD-HEAD. Now we've got a brand new .skn file, and we're ready to move on to the cmx file.
