@@ -7,4 +7,4 @@ how to create custom heads, then need to do internet archeology in the wayback m
 
 Click the links to begin learning how to make custom content for a 24-year-old dollhouse simulator game: 
 
-[Tools](tools.md) | Meshing & UV Mapping | [Skn2Obj & CMX Files](skn2objcxm.md)
+[Tools](tools.md) | [Meshing, Textures, and UV Mapping](meshing.md) | [Skn2Obj & CMX Files](skn2objcxm.md)
