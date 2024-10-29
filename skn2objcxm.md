@@ -4,7 +4,7 @@ There's three parts to Create-a-Sim custom content for *The Sims* (2000):
 * The .BMP file (the texture)
 * The .CMX files (what links them together)
 ## The SKN File
-These files are created by importing a .obj file into Skn2Obj.  
+These files are created by importing a .obj file into Skn2Obj, a 3rd party tool created specifically for creating meshes for Sims 1.  
 
 It is important to adhere to the naming conventions Maxis laid out for us so all the head pieces can find each other. This is how the naming of the mesh files (the SKN file) should go:  
 
